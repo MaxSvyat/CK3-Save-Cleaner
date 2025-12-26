@@ -38,6 +38,8 @@ Important Warnings:
 
 -Understand the risk: Deleting game objects (like dead characters) can lead to crashes if other parts of the save reference them. The tool tries to handle related data (like family connections), but caution is advised.
 
+-During testing, it was discovered that clearing "history={}" blocks may cause game crashes if your save contains active Struggle mechanics (Iberian Struggle, Persian Struggle) or ongoing Dynasty Cycles. Use this option with extreme caution if you're involved in these mechanics!
+
 Project Background:
 
 This utility was developed as a course project at The Kovrov State Technological University named after V.A. Degtyarev, Department of Applied Mathematics and CAD Systems. It represents a practical application of programming skills to solve a real problem faced by the gaming community.
