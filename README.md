@@ -2,7 +2,7 @@ Tired of your Crusader Kings 3 saves becoming bloated and slow after centuries o
 
 Key Features:
 
--Targeted Cleaning: Choose what to remove from 12 different categories, from safe cosmetic text to deep data like dead characters and dynasties.
+-Targeted Cleaning: Choose what to remove from 11 different categories, from safe cosmetic text to deep data like dead characters and dynasties.
 
 -Risk-Level Visual Guide: Settings are color-coded (Green = Safe, Orange = Risky) based on stability impact.
 
