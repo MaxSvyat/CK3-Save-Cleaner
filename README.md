@@ -1,6 +1,7 @@
 Tired of your Crusader Kings 3 saves becoming bloated and slow after centuries of gameplay? This tool helps you clean your save files by removing obsolete and non-essential data, reducing file size, and potentially improving performance and stability, especially in the late game.
 
 Key Features:
+
 -Targeted Cleaning: Choose what to remove from 12 different categories, from safe cosmetic text to deep data like dead characters and dynasties.
 -Risk-Level Visual Guide: Settings are color-coded (Green = Safe, Orange = Risky) based on stability impact.
 -Safety First: Always create a backup of your original save before processing (highly recommended and enabled by default).
